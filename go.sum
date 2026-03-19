@@ -183,6 +183,8 @@ github.com/rancher/apiserver v0.8.3 h1:ZkoT9Pte6lB+gz+D6wQbcOrUnT+FC5oEt3V7mF6M3
 github.com/rancher/apiserver v0.8.3/go.mod h1:EqdyCXM/FuLXg1/Pw2xaAltuU7qvxMoec+vnWhulz1I=
 github.com/rancher/dynamiclistener v0.7.4-rc.2 h1:rmsTukH0QUx4v6BpV3hArFccu+6LDuloKwl9cRwHy2Y=
 github.com/rancher/dynamiclistener v0.7.4-rc.2/go.mod h1:Xuq3XpoFO+6j8te9w/3rlrhhALME47jw5xWhueT5iYY=
+github.com/rancher/dynamiclistener v0.8.0 h1:V+Au9B37jY5LTVanpIVOgUnMHERVmJR9dIZRtpAzz/I=
+github.com/rancher/dynamiclistener v0.8.0/go.mod h1:0dO+pAb3FHrGIR6IaOjXqGXSRLMsecVdz64x7aRjBoU=
 github.com/rancher/kubernetes-provider-detector v0.1.6-0.20240606163014-fcae75779379 h1:/DKzOm5Du2jPLE5rXPGhsb0XeT68kWEIRi6jnzMeyGk=
 github.com/rancher/kubernetes-provider-detector v0.1.6-0.20240606163014-fcae75779379/go.mod h1:IfqyXrTiCAg8rTJodbGApTiORgujJnBH+QyHHJlFSII=
 github.com/rancher/lasso v0.2.7 h1:N56Pm8KJSk7gRVYILSGb35QBfjcDDeGFMfwUCivsbeg=
